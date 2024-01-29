@@ -1,2 +1,2 @@
 # Option-Pricing-using-Black-Scholes-Merton-Model
-Option Pricing Project using The Black-Scholes-Merton Model
+This Python project implements the Black-Scholes Model, a widely used mathematical model for calculating the theoretical price of European-style options. The implementation provides a user-friendly interface for calculating option prices based on input parameters such as the current stock price, option's strike price, time to expiration, risk-free interest rate, and volatility.
